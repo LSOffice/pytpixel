@@ -20,4 +20,4 @@ booster = pypixel.boosters.Boosters()
 staff = pypixel.bans.Staff()
 watchdog = pypixel.bans.Watchdog()
 skyblockprof = pypixel.skyblock.SkyblockProfile()
-```# pytpixel
+```
